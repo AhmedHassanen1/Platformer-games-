@@ -1,1 +1,1 @@
-# Platformer-games-
+Made a 2D game using Python, featuring a player and moving enemies in a competitive environment. The player could shoot enemies, perform character animations such as flips, and progress through multiple levels.
